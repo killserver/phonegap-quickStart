@@ -1,0 +1,15 @@
+%icon-button_play2,
+%icon-button_plus,
+%last_selector {
+     &:before {
+        font-family: "cardinal";
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: normal;
+        // speak: none; // only necessary if not using the private unicode range (firstGlyph option)
+        text-decoration: none;
+        text-transform: none;
+     }
+}
